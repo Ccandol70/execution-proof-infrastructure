@@ -12,6 +12,8 @@ Developed by Hanjoo Kim / Prutrix™.
 
 ## Research Paper No. 1
 
+Execution Proof Infrastructure: Verifiable Consequential Execution and State Relationships
+
 Hanjoo Kim  
 Independent Researcher  
 September 2026
